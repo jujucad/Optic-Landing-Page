@@ -1,0 +1,37 @@
+h1{
+    font-family: 'Pinyon Script', cursive;
+    font-size: 7rem;
+  }
+  .card{
+  border: 0px;  
+  }
+  #Banner{
+    margin-bottom: 0px;
+  }
+  #Services{
+    margin-bottom: 30px;
+  }
+
+  #brandimage{
+    height: 90px;
+    width: 90px;
+    
+
+  }
+
+  #Brandsbanner{
+    background-color: black;
+    padding: 50px;
+    margin-bottom:50px;
+  }
+
+  #Brands{
+padding: 0px;
+  }
+
+  #Footer{
+    background-color:#404040;
+    padding: 30px;
+    color: whitesmoke;
+  }
+ 
